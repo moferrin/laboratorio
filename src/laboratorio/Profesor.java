@@ -1,6 +1,6 @@
 package laboratorio;
 
-public class Profesor extends Persona { // Ejemplo aprenderaprogramar.com
+public class Profesor extends Persona {
 	private String IdProfesor;
 
 	public Profesor() {
